@@ -1,0 +1,26 @@
+{
+  "canisters": {
+    "siteayla_backend": {
+      "main": "src/siteayla_backend/main.mo",
+      "type": "motoko"
+    },
+    "siteayla_frontend": {
+      "dependencies": [
+        "siteayla_backend"
+      ],
+      "source": [
+        "src/siteayla_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "siteayla_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
