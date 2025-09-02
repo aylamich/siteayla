@@ -4,7 +4,7 @@
 No heavy info, nothing too formal… just something cute, light, and cozy. 
 
 🔗 **Visit it here**:  
-👉 Explore my digital space
+[👉 Explore my digital space](https://rf5ss-iiaaa-aaaai-as6ea-cai.icp0.io/)
 
 💡 **About this project**  
 - Built to explore and play with the ICP blockchain (Internet Computer Protocol).  
